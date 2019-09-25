@@ -151,11 +151,7 @@ nav ul li a:focus						    {  color:#ffffff; }
 .persons_blog { background:#eeeeee; padding:20px0 0 20px 0;}
 .persons	  {/* padding:50px 0 50px 0; */}
 .persons h2	  { text-align: center; font-weight: 600;}
-.nicks  	  {background: #fff;margin: 0 0 0 0;}
-.nicks ul 	  {display: block;font-size: 0;margin: 0 -22px;}
-.nicks ul li  {display: inline-block;width: 50%;padding: 0 22px; vertical-align: bottom;}
-.nicks ul li a { display: block;}
-.nicks ul li a img { display: block;}
+.nicks img { display: block; margin-left: auto; margin-right: auto; width: 75%}
 
 .persons {max-width: 695px;margin: 0 auto;padding: 46px 0 35px 0;}
 .persons_list {padding: 10px 0 10px 0;}
