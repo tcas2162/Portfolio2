@@ -1,46 +1,46 @@
- 
+
 @media(max-width:1270px){
 
 .container { width:100%; padding:0 15px;}
 
 .fidelity1 ul { margin:0 -10px;}
-.fidelity1 ul li{ padding:0 10px;} 
+.fidelity1 ul li{ padding:0 10px;}
 .information_view ul { margin: 0 -10px;}
 .information_view ul li { padding: 0 10px;}
-	
+
 .blockhead1 p { line-height: 42px;}
 .blockhead1 p br { display: none;}
-/* inner1 page ends here */		
-.fidelity4 ul { margin:0 -10px;} 
-.fidelity4 ul li { padding:0 10px;} 
+/* inner1 page ends here */
+.fidelity4 ul { margin:0 -10px;}
+.fidelity4 ul li { padding:0 10px;}
 .allitems > ul > li { width: 50%;}
 .allitems > ul > li > a >img { width: 100%;}
-.features ul li  { width:50%;} 
-.features ul li a img { width: 100%;} 
+.features ul li  { width:50%;}
+.features ul li a img { width: 100%;}
 
-/* inner1 page ends here */	
-.yattavision ul { margin: 0 -10px;} 
-.yattavision ul li { padding:0 10px;} 
-.blockhead2 p   { font-size: 1.600em; line-height: 32px; padding: 0 0 50px 0;}	
+/* inner1 page ends here */
+.yattavision ul { margin: 0 -10px;}
+.yattavision ul li { padding:0 10px;}
+.blockhead2 p   { font-size: 1.600em; line-height: 32px; padding: 0 0 50px 0;}
 
 }
 @media(max-width:1024px){
-/* index page starts here */	
+/* index page starts here */
 .location_view { max-width:660px;}
 .location_view ul li { padding: 0 15px;}
 .location_view ul li a span.loc_bf { left:-80px; font-size: 20px; line-height: 20px;}
 .location_view ul li a span.loc_af { right:-80px; font-size: 20px; line-height: 20px;}
 /* index page ends here */
-	
-	
-/* inner5 page starts here */	
+
+
+/* inner5 page starts here */
 .contact_us { padding: 0 10px 0 0;}
 .sites		{ padding: 0 0 0 10px;}
-/* inner5 page ends here */	
-	
+/* inner5 page ends here */
 
-	
-/* inner1 page ends here */		
+
+
+/* inner1 page ends here */
 .features7 { padding:15px 0 15px 0 ;}
 .features1 { padding:10px 0;}
 .features2 { padding:10px 0;}
@@ -50,50 +50,50 @@
 .features6 { padding:10px 0;}
 .features8 { padding:10px 0;}
 .features9 { padding:10px 0;}
-/* inner1 page ends here */	
-	
+/* inner1 page ends here */
+
 }
 @media(max-width:991px){
 h1 { font-size: 2.000em; line-height: 52px;}
 h2 { padding: 0 0 25px 0; font-size: 1.780em;}
-p  { padding:0 0 10px 0; font-size: 1.340em; line-height: 35px;} 
+p  { padding:0 0 10px 0; font-size: 1.340em; line-height: 35px;}
 
-/* index page starts here */	
+/* index page starts here */
 .survey_view { margin: 0 30px 0 0;}
 .nicks ul    { margin: 0 -10px;}
 .nicks ul li { padding: 0 10px;}
 .nicks2 ul li { padding: 0 10px;}
 .location_view { max-width:600px;}
-.location_view ul { margin: 0 -10px;}	
+.location_view ul { margin: 0 -10px;}
 .location_view ul li { padding: 0 10px;}
-/* index page ends here */	
-	
-/* inner4 page starts here */	
+/* index page ends here */
+
+/* inner4 page starts here */
 .about_cnt { padding:0 0 0 15px;}
 .about_view{ padding:0 10px 0 0;}
 .about_cnt p  { line-height: 30px;}
-.about_cnt h2 { padding: 0 0 5px 0;}	
-.connect { padding:80px 0 70px 0;}	
+.about_cnt h2 { padding: 0 0 5px 0;}
+.connect { padding:80px 0 70px 0;}
 .connect h2 { padding: 0 0 40px 0;}
 .connect p  { font-size: 1.400em; line-height: 32px;}
 .connect_blog { margin: 0 0 70px 0;}
 .location_view { max-width: 540px;}
-	
+
 /* inner4 page ends here */
 
-	
-/* inner3 page starts here */	
+
+/* inner3 page starts here */
 .work_cnt h4 { padding: 10px 0 10px 0;}
 .work_cnt > a.study { font-size: 1.110em; line-height: 50px; height: 50px;}
 .work_cnt { margin: -110px auto 0 auto;}
 .mywork_blog h2 { padding: 0 0 40px 0;}
 .mywork { margin: 0 0 60px 0; border-top: #1994b8 40px solid;}
-/* inner3 page ends here */	
+/* inner3 page ends here */
 
 }
 @media(max-width:767px){
-h1 {font-size: 1.750em;line-height: 40px;} 
-h2 { padding: 0 0 15px 0;} 
+h1 {font-size: 1.750em;line-height: 40px;}
+h2 { padding: 0 0 15px 0;}
 h4 { font-size: 1.210em; line-height: 22px;}
 p { font-size: 1.250em; line-height: 34px;}
 
@@ -105,7 +105,7 @@ nav{display:none}
 .wrapper{position:relative;left:0;transition:all .5s ease-in-out;-webkit-transition:.25s ease-in-out;-moz-transition:.25s ease-in-out;-o-transition:.25s ease-in-out}
 .open .wrapper{left:-250px}.open .overlay{visibility:visible;opacity:.6}
 .open.sticky header{left:-250px;-webkit-transition: .25s ease-in-out;-moz-transition: .25s ease-in-out;-o-transition: .25s ease-in-out;transition: .25s ease-in-out;}
-.side_bar ul li{padding: 10px 0; position:relative;} 
+.side_bar ul li{padding: 10px 0; position:relative;}
 .side_bar ul li a { color:#ffffff;}
 .dropdown > a{ display:block; }
 .logo { display:inline-block; float:left;}
@@ -118,10 +118,10 @@ nav{display:none}
 .sc_nt		 { padding:5px 0; display: block; float: none; width: 100%; text-align: center;}
 .copy_rights p { padding: 3px 0 4px 40px; font-size: 1.250em;  display: inline-block;}
 .sc_nt ul	 { float: none;}
-.sc_nt ul li { float: none; margin: 0 5px; }	
+.sc_nt ul li { float: none; margin: 0 5px; }
 
 
-/* inner4 page starts here */	
+/* inner4 page starts here */
 .about_cnt { padding:0; display: block; float: none; width: 100%; padding: 20px 0 0 0;}
 .about_view{ padding:0; display: block; float: none; width: 100%;}
 .about	   {padding: 20px 0 20px 0;}
@@ -129,33 +129,33 @@ nav{display:none}
 .connect   { padding: 40px 0 40px 0;}
 .connect h2 { padding: 0 0 30px 0;}
 .view_invision4 { margin: 30px auto 0 auto;}
-.view_invision  { max-width: 250px; font-size: 1.10em;}	
+.view_invision  { max-width: 250px; font-size: 1.10em;}
 .connect_blog   { margin: 0 0 50px 0;}
 .about_cnt p a { }
 .about_cnt p { line-height: 29px;}
 .logo a img  {width: 200px;}
 
 /* inner4 page ends here */
-	
-/* inner5 page starts here */	
+
+/* inner5 page starts here */
 .contact_us { width: 100%; display: block; float: none; padding: 0 0 10px 0;}
 .sites      { width: 100%; display: block; float: none;}
-.contact    { padding:20px 0 20px 0;}	
+.contact    { padding:20px 0 20px 0;}
 .contact_hd h2 { padding:0 0 20px 0;}
 .sites 	    { text-align: center;}
 .contact_form ul li button { margin: 0 auto; display: block;}
 .contact_us h2 { text-align: center;}
-.contact_hd  { padding: 0 0 20px 0;}	
+.contact_hd  { padding: 0 0 20px 0;}
 
-/* inner5 page ends here */	
-	
-/* index page starts here */	
+/* inner5 page ends here */
+
+/* index page starts here */
 .block_content_text p { padding: 0 0 10px 0 !important;}
 .block_contentin 	  { padding: 20px 0 !important; }
-	
+
 .follow p { padding: 0 0 10px 0;}
 .location_view ul li { width: 100%; float: none; padding: 0; margin: 5px 0;}
-.location_view       { max-width: 330px;} 
+.location_view       { max-width: 330px;}
 .scheme { padding: 30px 0 20px 0;}
 .fidelity ul    { margin:0;}
 .fidelity ul li { width:100%; display: block; padding: 0;}
@@ -163,9 +163,9 @@ nav{display:none}
 .information_view ul { margin: 0;}
 .information_view ul li { width:100%; display: block; padding: 0;}
 .branding_cnt p	 {padding: 0 0 10px 0;}
-.branding_logo ul    { margin: 0;} 
+.branding_logo ul    { margin: 0;}
 .branding_logo ul li { width: 100%; margin:10px 0; display: block; padding:0;}
-.branding { padding: 15px 0 10px 0;} 
+.branding { padding: 15px 0 10px 0;}
 .branding h2 { padding: 0 0 10px 0;}
 .read_me { padding: 10px 0;}
 .fidelity { padding: 10px 0 10px 0;}
@@ -176,15 +176,15 @@ nav{display:none}
 .usages ul li { width: 100%; display: block; margin: 10px 0;}
 .usages ul li:after { display: none;}
 .usages { padding: 10px 0;}
-/* index page ends here */	
-	
-/* inner1 page starts here */	
+/* index page ends here */
+
+/* inner1 page starts here */
 .final h2 { padding: 0 0 20px 0;}
 .final 	  { padding: 20px 0;}
 .view_invision2 { margin: 10px auto 0 auto;}
 .view_invision3 { margin: 15px auto 0 auto;}
 .analysis { padding: 20px 0 20px 0;}
-.analysis_cnt p { padding: 0 0 10px 0;} 
+.analysis_cnt p { padding: 0 0 10px 0;}
 .branding_cnt { padding: 9px 0 10px 0;}
 .features ul  { margin: 0;}
 .features ul li { width: 100%; float: none; display: block; padding: 0;}
@@ -193,11 +193,11 @@ nav{display:none}
 .results ul li  { margin: 0 0 20px 0;}
 .blockhead1 p   { line-height: 32px;}
 .persons   		{ padding: 20px 0 20px 0;}
-/* inner1 page ends here */	
-	
-	
-/* inner3 page starts here */	
- 
+/* inner1 page ends here */
+
+
+/* inner3 page starts here */
+
 .work_cnt { margin: -70px auto 0 auto;}
 .mywork_blog h2 { padding: 0 0 40px 0;}
 .mywork { margin: 0 0 50px 0; border-top: #1994b8 30px solid;}
@@ -205,12 +205,12 @@ nav{display:none}
 .blockhead p   { padding: 0 0 20px 0;}
 .yattavision ul li { padding: 0 5px;}
 .yattavision ul { margin: 0 -5px;}
-/* inner3 page ends here */	
-	
+/* inner3 page ends here */
+
 }
 @media(max-width:599px){
 h1 {font-size: 1.500em;line-height: 34px;}
-h2 { padding: 0 0 10px 0; margin:0; font-size:1.500em; line-height:28px;} 
+h2 { padding: 0 0 10px 0; margin:0; font-size:1.500em; line-height:28px;}
 h4 { font-size: 1.210em; line-height: 22px;}
 p  { font-size: 1.125em; line-height: 28px;}
 
@@ -219,28 +219,28 @@ p  { font-size: 1.125em; line-height: 28px;}
 .view_invision4 { margin: 10px auto 0 auto;}
 
 
-/* inner4 page starts here */	
+/* inner4 page starts here */
 .connect_blog {margin: 0 0 25px 0;}
 .connect p    { font-size: 1.120em; line-height: 26px;}
 .about_cnt p  { line-height: 26px;}
 /* inner4 page ends here */
 
-/* inner5 page starts here */	
-.contact_form ul li input 	  { padding: 0 10px 0 10px; height: 40px; line-height:40px; font-size: 1.100em;} 
+/* inner5 page starts here */
+.contact_form ul li input 	  { padding: 0 10px 0 10px; height: 40px; line-height:40px; font-size: 1.100em;}
 .contact_form ul li textarea  { padding: 0 10px 0 10px; font-size: 1.100em;}
 .contact_form ul li { margin: 0 0 10px 0;}
 .contact_form ul li.msg { margin: 0 0 20px 0;}
 .contact_form ul li button { font-size: 1.110em; line-height: 50px; width: 180px; height: 50px;}
 .contact_form ul li label  { font-size: 1.100em; line-height: 20px; margin: 10px 0 0 0; }
 .sites ul li a { font-size: 1.400em; line-height: 24px;}
-.sites ul li a span i { font-size: 34px; line-height: 36px;}	
-.sites ul li a span { width: 32px; margin: 0 18px 0 0;} 
+.sites ul li a span i { font-size: 34px; line-height: 36px;}
+.sites ul li a span { width: 32px; margin: 0 18px 0 0;}
 .sites ul li { margin: 0 0 10px 0;}
 .contact_hd p { font-size: 1.200em; line-height: 24px;}
-.contact_hd   { padding: 0 0 10px 0; } 
-	
-/* inner5 page ends here */	
-/* index page starts here */	
+.contact_hd   { padding: 0 0 10px 0; }
+
+/* inner5 page ends here */
+/* index page starts here */
 .location_view { max-width: 240px;}
 .location_view ul li a span.loc_bf {left: -70px;font-size: 16px;line-height: 18px;}
 .location_view ul li a span.loc_af {right: -70px;font-size: 16px;line-height: 18px;}
@@ -268,9 +268,9 @@ p  { font-size: 1.125em; line-height: 28px;}
 .blockhead1 p { line-height:24px;}
 .blockhead a  { margin: 0 0 10px 0;}
 .analysis_in h2 { margin: 0 0 10px 0;}
-	
+
 /* inner1 page ends here */
-	
+
 /* inner3 page starts here */
  .banner_content3 { padding: 62px 0 10px 0;}
  .mywork_blog     { padding: 130px 0 20px 0;}
@@ -279,7 +279,7 @@ p  { font-size: 1.125em; line-height: 28px;}
 .work_cnt h4 { padding: 0 0 10px 0; font-size: 1.150em; line-height: 22px;}
 .work_cnt { margin:-110px auto 0 auto; padding:0 20px;}
 .mywork { margin: 0 0 20px 0;}
-	
+
 .yattavision ul li { float: none; margin:5px 0; width: 100%;}
 .yattavision ul li.yat_desk { width: 100%;}
 .yattavision ul li.yat_mob  { width: 100%;}
@@ -292,11 +292,11 @@ p  { font-size: 1.125em; line-height: 28px;}
 }
 @media(max-width:479px){
 h1 {font-size: 1.375em;line-height: 28px;}
-h2 {padding: 0 0 10px 0; margin:0;font-size: 1.250em;line-height: 26px;} 
+h2 {padding: 0 0 10px 0; margin:0;font-size: 1.250em;line-height: 26px;}
 p  {font-size: 1.000em;line-height: 24px;}
 .container { padding:0 15px;}
-/* index page starts here */	
-.location_view { max-width: 160px;} 
+/* index page starts here */
+.location_view { max-width: 160px;}
 .location_view ul li a span.loc_bf {left: -53px;font-size: 14px;line-height: 16px;}
 .location_view ul li a span.loc_af {right: -53px;font-size: 14px;line-height: 16px;}
 .banner_content { padding: 30px 0 250px 0;}
@@ -310,4 +310,3 @@ p  {font-size: 1.000em;line-height: 24px;}
 /* inner3 page ends here */
 }
 @media(min-width:768px){}
-
