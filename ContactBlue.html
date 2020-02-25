@@ -1,0 +1,138 @@
+
+
+<!doctype html>
+<html lang="zxx">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no">
+    <title>Updateddesign of order : 66734</title>
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+      <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+  </head>
+  <body>
+    <div class="sidemenu"></div>
+    <div class="wrapper">
+      <!--banner block starts-->
+                <header>
+                        <div class="container">
+                        <div class="header-in">
+                            <div class="logo">
+                                <a href="#"><img src="images/logo.png" width="279" height="92" alt="img"></a>
+                            </div>
+                            <div class="menu wte">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                            <nav>
+                                <ul>
+                                    <li><a href="#">Projects</a></li>
+                                    <li><a href="#">About</a></li>
+                                    <li class="active"><a href="#">Contact</a></li>
+                                </ul>
+                            </nav>
+                            <div class="clear"></div>
+                        </div>
+                        </div>
+                </header>
+      <!--banner block end-->
+      <!--contact block starts-->
+      <div class="contact">
+            <div class="container">
+                <div class="contact-in">
+                    <h2>Contact Me</h2>
+                    <div class="contact-left">
+                        <h3>Write Me Here:</h3>
+                        <form>
+                            <ul>
+                                <li><input type=text placeholder="Your Name*"></li>
+                                <li><input type=text placeholder="Your E-mail*"></li>
+                                <li><textarea type="text" placeholder="Your Message*"></textarea>
+                                <span>* Required</span>
+								</li>
+                            </ul>
+							<button type="button" class="btn let">SEND</button>
+                        </form>
+                    </div>
+                    <div class="contact-rihgt">
+                        <h3>Connect With Me On These Sites:</h3>
+                        <h3><a href="#"><i class="fa fa-github" aria-hidden="true"></i>Github</a></h3>
+						<h3><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a></h3>
+						
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="connect-main">
+                <div class="connect">
+                    <h2>Let’s Connect! </h2>
+                    <h2>I Am Currently Seeking A UX Research Role In Manhattan.  </h2>
+                    <button type="button" class="let">CONTACT ME</button>
+                </div>
+                </div>
+          </div>
+        </div>
+      <!--contact block end-->
+        
+      <!--footer starts-->
+      <footer>
+        <div class="container">
+            <div class="footer-in">
+                <p><span><i class="fa fa-copyright" aria-hidden="true"></i></span>2018 Timothy E. Casey</p>
+               <ul class="clearfix">
+					<li><a href="#"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+					<li><a href="#" class="git"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+				</ul>
+            </div>
+          </div>
+      </footer>
+      </div>
+      <!--footer end-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
+<script>
+          $(document).ready(function(){
+      $('nav').clone().appendTo('.sidemenu');
+         
+           //menu-left-right
+           $('.menu').click(function(e){
+           
+          $('body').toggleClass('open-menu');
+         
+         
+      })
+    });
+</script>
+	  <script>
+        
+    $(document).ready(function () {
+			
+			$(window).scroll(function(e){
+				
+			if($(window).scrollTop() > 0)
+			{
+				$('body').addClass('move-sticky-up');						
+				}
+			else
+			{	
+				$('body').removeClass('move-sticky-up');
+			}	
+			
+			if($(window).scrollTop() > 0)
+			{
+				$('body').addClass('sticky');						
+				}
+				else{
+					$('body').removeClass('sticky');	
+					}
+			
+			})        
+
+	});
+    </script>
+  </body>
+</html>

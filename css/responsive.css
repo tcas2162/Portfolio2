@@ -1,312 +1,300 @@
-
-@media(max-width:1270px){
-
-.container { width:100%; padding:0 15px;}
-
-.fidelity1 ul { margin:0 -10px;}
-.fidelity1 ul li{ padding:0 10px;}
-.information_view ul { margin: 0 -10px;}
-.information_view ul li { padding: 0 10px;}
-
-.blockhead1 p { line-height: 42px;}
-.blockhead1 p br { display: none;}
-/* inner1 page ends here */
-.fidelity4 ul { margin:0 -10px;}
-.fidelity4 ul li { padding:0 10px;}
-.allitems > ul > li { width: 50%;}
-.allitems > ul > li > a >img { width: 100%;}
-.features ul li  { width:50%;}
-.features ul li a img { width: 100%;}
-
-/* inner1 page ends here */
-.yattavision ul { margin: 0 -10px;}
-.yattavision ul li { padding:0 10px;}
-.blockhead2 p   { font-size: 1.600em; line-height: 32px; padding: 0 0 50px 0;}
-
+@media only screen and (max-width:1680px){
+	.food-truck:after{height: 84px;bottom: -62px;}
 }
-@media(max-width:1024px){
-/* index page starts here */
-.location_view { max-width:660px;}
-.location_view ul li { padding: 0 15px;}
-.location_view ul li a span.loc_bf { left:-80px; font-size: 20px; line-height: 20px;}
-.location_view ul li a span.loc_af { right:-80px; font-size: 20px; line-height: 20px;}
-/* index page ends here */
-
-
-/* inner5 page starts here */
-.contact_us { padding: 0 10px 0 0;}
-.sites		{ padding: 0 0 0 10px;}
-/* inner5 page ends here */
-
-
-
-/* inner1 page ends here */
-.features7 { padding:15px 0 15px 0 ;}
-.features1 { padding:10px 0;}
-.features2 { padding:10px 0;}
-.features3 { padding:10px 0;}
-.features4 { padding:10px 0;}
-.features5 { padding:10px 0;}
-.features6 { padding:10px 0;}
-.features8 { padding:10px 0;}
-.features9 { padding:10px 0;}
-/* inner1 page ends here */
-
+@media only screen and (max-width:1530px){
+	.food-truck:after{height: 80px;}
 }
-@media(max-width:991px){
-h1 { font-size: 2.000em; line-height: 52px;}
-h2 { padding: 0 0 25px 0; font-size: 1.780em;}
-p  { padding:0 0 10px 0; font-size: 1.340em; line-height: 35px;}
-
-/* index page starts here */
-.survey_view { margin: 0 30px 0 0;}
-.nicks ul    { margin: 0 -10px;}
-.nicks ul li { padding: 0 10px;}
-.nicks2 ul li { padding: 0 10px;}
-.location_view { max-width:600px;}
-.location_view ul { margin: 0 -10px;}
-.location_view ul li { padding: 0 10px;}
-/* index page ends here */
-
-/* inner4 page starts here */
-.about_cnt { padding:0 0 0 15px;}
-.about_view{ padding:0 10px 0 0;}
-.about_cnt p  { line-height: 30px;}
-.about_cnt h2 { padding: 0 0 5px 0;}
-.connect { padding:80px 0 70px 0;}
-.connect h2 { padding: 0 0 40px 0;}
-.connect p  { font-size: 1.400em; line-height: 32px;}
-.connect_blog { margin: 0 0 70px 0;}
-.location_view { max-width: 540px;}
-
-/* inner4 page ends here */
-
-
-/* inner3 page starts here */
-.work_cnt h4 { padding: 10px 0 10px 0;}
-.work_cnt > a.study { font-size: 1.110em; line-height: 50px; height: 50px;}
-.work_cnt { margin: -110px auto 0 auto;}
-.mywork_blog h2 { padding: 0 0 40px 0;}
-.mywork { margin: 0 0 60px 0; border-top: #1994b8 40px solid;}
-/* inner3 page ends here */
-
+@media only screen and (max-width:1450px){
+	.food-truck:after{background-size: cover;height: 71px;}
 }
-@media(max-width:767px){
-h1 {font-size: 1.750em;line-height: 40px;}
-h2 { padding: 0 0 15px 0;}
-h4 { font-size: 1.210em; line-height: 22px;}
-p { font-size: 1.250em; line-height: 34px;}
-
-
-nav{display:none}
-#nav-icon{display:block;}
-.open header{left:-250px;transition:.25s ease-in-out;-webkit-transition:.25s ease-in-out;-moz-transition:.25s ease-in-out;-o-transition:.25s ease-in-out}
-.open .side_bar{right:0;opacity: 1;visibility: visible;}
-.wrapper{position:relative;left:0;transition:all .5s ease-in-out;-webkit-transition:.25s ease-in-out;-moz-transition:.25s ease-in-out;-o-transition:.25s ease-in-out}
-.open .wrapper{left:-250px}.open .overlay{visibility:visible;opacity:.6}
-.open.sticky header{left:-250px;-webkit-transition: .25s ease-in-out;-moz-transition: .25s ease-in-out;-o-transition: .25s ease-in-out;transition: .25s ease-in-out;}
-.side_bar ul li{padding: 10px 0; position:relative;}
-.side_bar ul li a { color:#ffffff;}
-.dropdown > a{ display:block; }
-.logo { display:inline-block; float:left;}
-.nav_main {padding:10px 0 0 0;}
-.nav_main1 { padding:30px 0 0 0;}
-.head_main{padding:15px 0 10px 0;/* min-height: 86px; */}
-.wrapper {padding: 98px 0 0 0;}
-.footer_main { text-align: center; padding:20px 0 20px 0;}
-.copy_rights { padding:5px 0; display: inline-block; float: none; width: 100%; text-align: center;}
-.sc_nt		 { padding:5px 0; display: block; float: none; width: 100%; text-align: center;}
-.copy_rights p { padding: 3px 0 4px 40px; font-size: 1.250em;  display: inline-block;}
-.sc_nt ul	 { float: none;}
-.sc_nt ul li { float: none; margin: 0 5px; }
-
-
-/* inner4 page starts here */
-.about_cnt { padding:0; display: block; float: none; width: 100%; padding: 20px 0 0 0;}
-.about_view{ padding:0; display: block; float: none; width: 100%;}
-.about	   {padding: 20px 0 20px 0;}
-.connect p { font-size: 1.250em; line-height: 30px;}
-.connect   { padding: 40px 0 40px 0;}
-.connect h2 { padding: 0 0 30px 0;}
-.view_invision4 { margin: 30px auto 0 auto;}
-.view_invision  { max-width: 250px; font-size: 1.10em;}
-.connect_blog   { margin: 0 0 50px 0;}
-.about_cnt p a { }
-.about_cnt p { line-height: 29px;}
-.logo a img  {width: 200px;}
-
-/* inner4 page ends here */
-
-/* inner5 page starts here */
-.contact_us { width: 100%; display: block; float: none; padding: 0 0 10px 0;}
-.sites      { width: 100%; display: block; float: none;}
-.contact    { padding:20px 0 20px 0;}
-.contact_hd h2 { padding:0 0 20px 0;}
-.sites 	    { text-align: center;}
-.contact_form ul li button { margin: 0 auto; display: block;}
-.contact_us h2 { text-align: center;}
-.contact_hd  { padding: 0 0 20px 0;}
-
-/* inner5 page ends here */
-
-/* index page starts here */
-.block_content_text p { padding: 0 0 10px 0 !important;}
-.block_contentin 	  { padding: 20px 0 !important; }
-
-.follow p { padding: 0 0 10px 0;}
-.location_view ul li { width: 100%; float: none; padding: 0; margin: 5px 0;}
-.location_view       { max-width: 330px;}
-.scheme { padding: 30px 0 20px 0;}
-.fidelity ul    { margin:0;}
-.fidelity ul li { width:100%; display: block; padding: 0;}
-.fidelity ul li a img { margin: 0 auto;}
-.information_view ul { margin: 0;}
-.information_view ul li { width:100%; display: block; padding: 0;}
-.branding_cnt p	 {padding: 0 0 10px 0;}
-.branding_logo ul    { margin: 0;}
-.branding_logo ul li { width: 100%; margin:10px 0; display: block; padding:0;}
-.branding { padding: 15px 0 10px 0;}
-.branding h2 { padding: 0 0 10px 0;}
-.read_me { padding: 10px 0;}
-.fidelity { padding: 10px 0 10px 0;}
-.results ul li p { padding: 0 0 0 20px !important;}
-.results  { padding:0 0 5px 0;}
-.results h4 { padding: 0 0 20px 0;}
-.results ul { padding: 0 0 0 10px;}
-.usages ul li { width: 100%; display: block; margin: 10px 0;}
-.usages ul li:after { display: none;}
-.usages { padding: 10px 0;}
-/* index page ends here */
-
-/* inner1 page starts here */
-.final h2 { padding: 0 0 20px 0;}
-.final 	  { padding: 20px 0;}
-.view_invision2 { margin: 10px auto 0 auto;}
-.view_invision3 { margin: 15px auto 0 auto;}
-.analysis { padding: 20px 0 20px 0;}
-.analysis_cnt p { padding: 0 0 10px 0;}
-.branding_cnt { padding: 9px 0 10px 0;}
-.features ul  { margin: 0;}
-.features ul li { width: 100%; float: none; display: block; padding: 0;}
-.insight ul li  { margin: 0 0 10px 0;}
-.view_invision  { margin: 20px auto 0 auto;}
-.results ul li  { margin: 0 0 20px 0;}
-.blockhead1 p   { line-height: 32px;}
-.persons   		{ padding: 20px 0 20px 0;}
-/* inner1 page ends here */
-
-
-/* inner3 page starts here */
-
-.work_cnt { margin: -70px auto 0 auto;}
-.mywork_blog h2 { padding: 0 0 40px 0;}
-.mywork { margin: 0 0 50px 0; border-top: #1994b8 30px solid;}
-.blockhead2 h2 { padding: 0 0 20px 0;}
-.blockhead p   { padding: 0 0 20px 0;}
-.yattavision ul li { padding: 0 5px;}
-.yattavision ul { margin: 0 -5px;}
-/* inner3 page ends here */
-
+@media only screen and (max-width:1300px){
+	.food-truck:after{height: 68px;}
 }
-@media(max-width:599px){
-h1 {font-size: 1.500em;line-height: 34px;}
-h2 { padding: 0 0 10px 0; margin:0; font-size:1.500em; line-height:28px;}
-h4 { font-size: 1.210em; line-height: 22px;}
-p  { font-size: 1.125em; line-height: 28px;}
-
-.connect { padding: 30px 0 30px 0;}
-.connect h2 { padding: 0 0 20px 0;}
-.view_invision4 { margin: 10px auto 0 auto;}
-
-
-/* inner4 page starts here */
-.connect_blog {margin: 0 0 25px 0;}
-.connect p    { font-size: 1.120em; line-height: 26px;}
-.about_cnt p  { line-height: 26px;}
-/* inner4 page ends here */
-
-/* inner5 page starts here */
-.contact_form ul li input 	  { padding: 0 10px 0 10px; height: 40px; line-height:40px; font-size: 1.100em;}
-.contact_form ul li textarea  { padding: 0 10px 0 10px; font-size: 1.100em;}
-.contact_form ul li { margin: 0 0 10px 0;}
-.contact_form ul li.msg { margin: 0 0 20px 0;}
-.contact_form ul li button { font-size: 1.110em; line-height: 50px; width: 180px; height: 50px;}
-.contact_form ul li label  { font-size: 1.100em; line-height: 20px; margin: 10px 0 0 0; }
-.sites ul li a { font-size: 1.400em; line-height: 24px;}
-.sites ul li a span i { font-size: 34px; line-height: 36px;}
-.sites ul li a span { width: 32px; margin: 0 18px 0 0;}
-.sites ul li { margin: 0 0 10px 0;}
-.contact_hd p { font-size: 1.200em; line-height: 24px;}
-.contact_hd   { padding: 0 0 10px 0; }
-
-/* inner5 page ends here */
-/* index page starts here */
-.location_view { max-width: 240px;}
-.location_view ul li a span.loc_bf {left: -70px;font-size: 16px;line-height: 18px;}
-.location_view ul li a span.loc_af {right: -70px;font-size: 16px;line-height: 18px;}
-.location { padding: 20px 0 10px 0;}
-.fidelity h2 { padding: 0 0 10px 0;}
-.blockhead h1 { margin: 0 0 10px 0;}
-.blockhead p  { font-size: 1.100em; line-height: 28px;}
-.survey_view  { float: none; display: block; text-align: center; margin: 0 auto;}
-.survey_view a img { margin: 0 auto;}
-.survey_list  { margin: 0 0 10px 0;}
-.survey_cnt { float: none; display: block; text-align: center; width: 100%;}
-.read { font-size: 1.100em;}
-.nicks ul { margin: 0;}
-.nicks ul li { width: 100%; margin:5px 0; padding: 0;}
-.scheme { padding: 20px 0 10px 0;}
-/* index page ends here */
-/* inner1 page starts here */
-
-.dropbox ul li { width: 100%; float: none; display: block; margin: 10px 0;}
-.dropbox ul li a img { width: 100%;}
-.dropbox ul { padding: 10px 0 10px 0;}
-.results ul li  { margin: 0 0 10px 0;}
-.mobile1 { margin:-81px auto 0 auto;}
-.banner_content1 { padding:56px 0 140px 0;}
-.blockhead1 p { line-height:24px;}
-.blockhead a  { margin: 0 0 10px 0;}
-.analysis_in h2 { margin: 0 0 10px 0;}
-
-/* inner1 page ends here */
-
-/* inner3 page starts here */
- .banner_content3 { padding: 62px 0 10px 0;}
- .mywork_blog     { padding: 130px 0 20px 0;}
- .mywork_blog h2  { padding: 0 0 20px 0;}
-.mywork figure img {width: 100%;height: 380px;object-fit: cover;}
-.work_cnt h4 { padding: 0 0 10px 0; font-size: 1.150em; line-height: 22px;}
-.work_cnt { margin:-110px auto 0 auto; padding:0 20px;}
-.mywork { margin: 0 0 20px 0;}
-
-.yattavision ul li { float: none; margin:5px 0; width: 100%;}
-.yattavision ul li.yat_desk { width: 100%;}
-.yattavision ul li.yat_mob  { width: 100%;}
-.yattavision ul li a img { margin: 0 auto;}
-
-
-
-/* inner3 page ends here */
-
+@media only screen and (max-width:1250px){
+    /*index page resoponsive*/
+    
+    .container{padding:0 15px;}
+    .banner{background-size:cover;}
+     /*conatct page resoponsive*/
+    .contact-in {padding: 70px 0;}
+      /*about page resoponsive*/
+    .about-in {padding: 70px 0 30px 0;}
+    .connect h2{padding: 0 0 30px 0;}
+    .connect{padding: 70px 0;}
+    .connect-main {padding: 0 0 70px 0;}
+     /*wheelmeals page resoponsive*/
+    .sign ul li{width:33.3%!important;padding:0 15px !important;}
+    .sign ul{font-size:0; margin:0 -15px;padding:10px 0 0 0;}
+    .work-in{padding: 60px 0;}
+    .work-in h3{padding: 0 0 60px 0;}
+    .blocbox ul li:first-child {padding: 0 15px 60px 0;}
+    .blocbox ul li:nth-child(2) {padding: 0 0 60px 15px;}
+    .blocbox ul {margin: 0 0 60px 0;}
+    .blocbox > h2{padding: 0 0 30px 0;letter-spacing:0;}
+    .banner-in{padding: 65px 15px 80px 15px;}
+    .survey-in a{padding: 0 0 70px 0;}
+    .survey-in figure img {margin: 0 0 70px 0;}
+    .conslusion {padding: 35px 0 35px 0;}
+	.food-truck:after{height: 60px;bottom: -54px;}
+    /*yattvisionfinal starts*/
+    .social > ul{margin: 0;}
+@media only screen and (max-width:1100px){
+     /*index page resoponsive*/
+    .work-in h3{padding: 0 0 70px 0;}
+    .blocbox ul li{padding:0;}
+    .blocbox ul li:first-child { padding: 0 15px 60px 0;}
+    .blocbox ul li:nth-child(2){ padding: 0 0 60px 15px;}
+    .blocbox ul {   margin: 0 0 70px 0;}
+    .blocbox > h2{padding: 0 0 30px 0;}
+     .footer-in {padding: 40px 0;}   
+    .header-in.main { padding: 40px 0 0 0;}
+     /*conatct page resoponsive*/
+    .contact-rihgt{padding: 0 0 0 85px;}
+    /*about page resoponsive*/
+       /*wheelmeals page resoponsive*/
+    .map-inner ul{font-size:0;}
+    .map-inner ul li{width:50%;padding:0;}
+    .map-inner.nicole ul li {  padding: 0 0 31px;}
+    .map-inner ul li figure img { margin: 0 auto;}
+    .user-right p br{display: none;}
+    .result p br{display: none;}
+	.food-truck:after{height: 56px;bottom: -53px;}
+    /*block box starts*/
+    .blockbox .food-in h3 br{display: none;}
+	.blockbox .food-in h3{letter-spacing: 0;line-height:34px;}
 }
-@media(max-width:479px){
-h1 {font-size: 1.375em;line-height: 28px;}
-h2 {padding: 0 0 10px 0; margin:0;font-size: 1.250em;line-height: 26px;}
-p  {font-size: 1.000em;line-height: 24px;}
-.container { padding:0 15px;}
-/* index page starts here */
-.location_view { max-width: 160px;}
-.location_view ul li a span.loc_bf {left: -53px;font-size: 14px;line-height: 16px;}
-.location_view ul li a span.loc_af {right: -53px;font-size: 14px;line-height: 16px;}
-.banner_content { padding: 30px 0 250px 0;}
-/* index page ends here */
-/* inner1 page starts here */
-.mobile1 {margin: -51px auto 0 auto;}
-.banner_content1 {padding: 56px 0 70px 0;}
-/* inner1 page ends here */
-/* inner3 page starts here */
- .banner_content3 { padding: 62px 0 10px 0;}
-/* inner3 page ends here */
+@media only screen and (max-width:1024px){
+       /*conatct page resoponsive*/
+    .connect{padding: 58px 0 58px 0;}
+    .contact-in { padding: 65px 0 80px 0;}
+       /*conatct page resoponsive*/
+    /*about page resoponsive*/
+       /*wheelmeals page resoponsive*/
+	.food-truck:after{height: 54px;bottom: -52px;}
 }
-@media(min-width:768px){}
+@media only screen and (max-width:991px){
+     /*index page resoponsive*/
+    .banner-in h3 br{display:none;}
+    .work-in h3 {   padding: 0 0 50px 0;}
+    h2 {font-size: 24px;letter-spacing:0;line-height:28px;}
+    .blocbox > h2{padding:0 0 22px 0;}
+	.bloc-inner h6.click{padding: 13px 0 22px 0;}
+/*    .bloc-inner figure.vn{height: 62px;}*/
+     /*conatct page resoponsive*/
+    .contact-rihgt {  padding: 0 0 0 0;}
+    .connect h2{padding: 0 0 25px 0;}
+    h3 {font-size: 23px;}
+    .contact-left{padding:0 30px 0 0;}
+    .contact-rihgt h3 { padding: 0 0 30px 0;}
+    form ul li span{    padding: 8px 0 0 0;}
+    .contact-in {  padding: 65px 0;}
+    /*about page resoponsive*/
+    .about-in {   padding: 65px 0 40px 0;}
+    .about-left{    padding: 0 30px 0 0;}
+    
+       /*wheelmeals page resoponsive*/
+    .food-in figure img {  margin: 0 auto 40px;}
+    .summary-in h6{padding: 0 0 20px 0;}
+    .survey-in a {  padding: 0 0 65px 0;}
+    .survey-in figure img {margin: 0 0 70px 0;}
+    .style-in ul {  margin: 0 -15px 26px;}
+    .style-in ul li{padding:0 15px;}
+    .map-inner ul li {padding:0 15px;}
+    .map-inner ul{margin:0 -15px;}
+    .map-inner ul li{float:left;width:50%;}
+    .map-inner.nicole ul li {  padding: 0 15px 31px;}
+    .add .item-left{padding: 0 15px 0 0;}
+    .add .item-right{padding: 0 0 0 15px;}
+	.food-truck:after{height: 41px;bottom: -30px;}
+    /*block box starts*/
+    /*yattavision starts*/
+    .food-in.yatta figure img {margin: 0 auto 40px;}
+}
+@media only screen and (max-width:768px){
+     /*index page resoponsive*/
+.logo a img {width: 220px;}
+nav{display: none;}
+.menu{display: block;position: absolute;top:48px !important;right:15px;z-index:3;}
+.sticky .menu{top:35px !important;}
+.open-menu header{left:-250px;}
+
+
+.sidemenu{display: block;}
+.menu span{display: block;}
+
+
+
+nav ul li{display: block;float: none;text-align: center;padding: 10px;}
+
+
+nav ul li a{display: block;}
+.open-menu .sidemenu nav ul li{max-width:150px;margin:0 auto;text-align:center;padding:30px 0 0 0 ;display:block;width:100%;}
+.wrapper {position:relative;left:0;-webkit-transition: all 0.25s ease-in-out; -moz-transition: all 0.25s ease-in-out;-o-transition:all 0.25s ease-in-out; transition: 0.25s ease-in-out;} 
+.open-menu .wrapper{left:-250px;} 
+    .banner-in{padding: 53px 15px 95px 15px;}   
+    .banner-in h1 { padding: 0 0 20px 0;}
+    .banner-in h3{line-height:34px;}
+    .blocbox ul li{width:100%;float:none;padding:0 0 20px 0 ! important;}
+    .blocbox ul li:first-child { padding: 0;}
+    .blocbox ul li:nth-child(2) { padding: 0;}
+    .blocbox ul { margin: 0;}
+    .work-in h3 {  padding: 0 0 35px 0;}
+    .work-in { padding: 35px 0 50px 0;}
+    .bloc-in > figure > img{width:100%;}
+/*    .bloc-inner figure.vn {height: 92px;}*/
+	.bloc-inner h6.click {padding: 50px 0;}
+     /*conatct page resoponsive*/
+    .contact-in {padding: 40px 0 15px 0;}
+    .contact-left { float: none; display: block; width: 100%;padding:0 0 30px 0;}
+    .contact-rihgt  { float: none; display: block; width: 100%;}
+    .contact-left h3 {padding: 0 0 25px 0;}
+    .contact-in h2{    padding: 0 0 20px 0;}
+    .connect-main { padding: 0 0 60px 0;}
+    .connect { padding: 46px 0 46px 0;}
+    /*about page resoponsive*/
+    .about-in { padding: 45px 0 15px 0;}
+    .about-left{float: none; display: block; width: 100%;padding:0 0 30px 0;}
+    .about-right{float: none; display: block; width: 100%;padding:0;}
+    .about-left figure img { width: 100%;}
+    .about-right h2{padding: 0 0 20px 0;}
+       /*wheelmeals page resoponsive*/
+        .user-in h6 {    padding: 0 0 23px 0;}
+.survey-in a {padding: 0 0 40px 0;}
+    .survey-in figure img { margin: 0 0 45px 0;}
+    .stories h6{    padding: 0 0 20px 0;}
+    .stories p{    padding: 0 0 25px 0;}
+    .user-flow-in h6{    padding: 0 0 21px 0;}
+    .Branding-inner ul li{padding:0 10px;}
+    .style-in ul li {  display: block;   width: 100%;float: none; padding: 0 0 20px 0;}
+    .style-in ul {  margin: 0 0 0;}
+    .fidelity ul li {display: block;width: 100%; padding: 0 0 34px!important;}
+    .sign ul li {display: block;width: 100%!important; padding: 0 0 34px!important;}
+    .fidelity ul li figure img {margin: 0 auto;}
+   .sign ul li figure img {margin: 0 auto;}
+    .map-inner ul li {  float: none; width: 100%;padding: 0 0 30px 0;}
+    .map-in h6 {padding:0 0 20px 0;}
+    .menu.wte{top:34px;}
+    .map-in.greg {padding: 34px 15px 0 15px;}
+    .conslusion {padding: 35px 15px 35px 15px;}
+	.food-truck:after{height: 31px;bottom: -28px;}
+    /*block box starts*/
+	.blockbox .food-in{padding: 10px 0 180px 0;}
+	.device .mobile-in figure img {margin: -140px auto 47px;}
+    .brand-style .fidelity ul li:nth-child(4){width: 100%;}
+    .brand-style .fidelity ul li:nth-child(5){width: 100%;}
+    .block-servey .stories p {padding: 0 15px 32px 15px;}
+    .mary .map-in p{padding: 0 15px 32px 15px;}
+    .austin .map-in p.york{padding: 0 15px;}
+    .brand-style .item-left{display: block;width: 100%;float: none;padding: 0 0 15px 0;}
+    .brand-style .item-right{display: block;width: 100%;float: none;padding: 0;}
+    .brand-style .item-left figure img{width: 100%;}
+    .brand-style .item-right figure img{width: 100%;}
+    .share-left {display: block;float: none;width: 100%;padding: 0 0 15px 0;}
+    .share-right {display: block;float: none;width: 100%;padding: 0 0 0 0;}
+    .sign-up {padding: 0 0 15px 0;}
+    .share-left.accounts {padding: 0 0 15px 0;}
+    .share-right.accounts {padding: 0;}
+    .final-left{width: 100%;display: block;float: none;padding: 0 0 15px 0;}
+    .final-right{width: 100%;display: block;float: none;padding: 0;}
+    .final-left figure img{width: 100%;}
+    .final-right figure img{width: 100%;}
+    .being-in ul li{width: 100%;display: block;float: none;}
+    .being-in ul li:nth-child(odd) {padding: 0 0 15px 0;}
+    .being-in ul li:nth-child(even) {padding: 0 0 15px 0;}
+    
+    
+    .being-in ul li figure img{margin: 0 auto;width: 100%;}
+    .being-in ul li:nth-child(even) figure img{margin: 0 auto;}
+    
+    
+    
+    /*yattavision starts*/
+    .social > ul > li{width: 100%;display: block;float: none;padding: 0 0 15px;}
+    .social > ul > li:last-child{padding: 0 0 15px 0;}
+    .cam ul li{width: 100%;display: block;float: none;padding: 0 15px 15px 15px;}
+    .austin {padding: 37px 15px 6px 15px;}
+}
+@media only screen and (max-width:575px){
+ /*index page resoponsive*/
+    .footer-in { padding: 27px 0;}
+     /*conatct page resoponsive*/
+    /*about page resoponsive*/
+           /*wheelmeals page resoponsive*/
+    .summary-in{padding:25px 0 0 0;}
+    .user-left h3:after{width:82px;height:82px;background-size: cover;}
+    .user-left h3{padding: 30px 0 0 25px;font-size: 19px;}
+    .result { padding: 15px 0 0 0;}
+    .conslusion { padding: 35px 15px 30px;}
+    .sign ul{margin:0;}
+.map-inner ul {  margin: 0;}
+    .overall-in {  padding: 25px 0 0 0;}
+    .map-in.greg{padding:34px 15px 0 15px; }
+     .menu.wte{top:25px;}
+	.food-truck:after{height: 27px;bottom: -22px;}
+}
+@media only screen and (max-width:479px){
+     /*index page resoponsive*/
+.footer-in a {font-size: 18px;}
+.footer-in p { font-size: 14px;}    
+.footer-in {  padding: 18px 0;}    
+.let {width: 200px;height: 46px;font-size: 17px;line-height: 46px;}
+.blocbox > h2 {font-size: 18px; line-height: 22px; padding: 0 0 15px 0; }   
+.work-in {   padding: 23px 0 45px 0;}    
+    h3 { font-size: 21px;line-height: 29px;}  
+    h1 {font-size: 26px;}
+    header .container{padding:0;}
+    header{padding:0 15px;}
+    .logo a img { width: 180px;}
+    .header-in.main { padding: 25px 0 0 0;}
+    .menu{top:38px !important;}
+.sticky .menu {
+    top: 27px !important;
+}
+    .work-in h3 {padding: 0 0 22px 0;}
+    .bloc-inner{max-width:200px;margin:0 auto;}
+    .bloc-inner h6{padding:20px 0;}
+    .bloc-inner h2 {  font-size: 25px; line-height: 35px;}
+    .blocbox ul { margin: 0 0 15px 0;}
+   .footer-in p span{    padding: 0 13px 0 0;}
+    .banner-in h3 {line-height: 29px;}
+    .banner-in {padding: 53px 15px 55px 15px;}
+    .bloc-inner figure.vn {width: 80%; margin: 0 auto;}
+	.bloc-inner h6.click {padding: 7px 0;}
+     /*conatct page resoponsive*/
+    .contact-in {padding: 30px 0 15px 0;}
+    .contact-left h3 { padding: 0 0 12px 0;}
+    form ul li { padding: 0 0 18px 0;}
+    .contact-rihgt h3 {padding: 0 0 19px 0;}
+    .connect h2{ font-size: 18px; line-height: 25px; padding: 0 0 15px 0; }
+    .connect {  padding: 36px 0 36px 0;}
+    .connect-main {  padding: 0 0 40px 0;}
+    /*about page resoponsive*/
+     .about-in {padding: 30px 0 15px 0;}
+    
+    .about-right p{padding:0 0 10px 0;}   
+    .connect {padding: 24px 0 24px 0;}
+       /*wheelmeals page resoponsive*/
+    .let.view {  width: 100%;    margin: 0 0 26px 0;font-size:15px;}
+    .mobile-in figure img {margin: -190px auto 25px;object-fit: cover;height: 408px;width: 201px;}
+    .user-left h3:after { width: 50px; height: 50px;}
+    .user-left h3 {padding: 13px 0 0 13px; font-size: 14px;}
+    .user-right p {font-size: 16px; line-height: 24px;}
+    .user-in{padding: 25px 0 0 0;}
+    .result p{padding: 0 0 15px 4px;}
+    .Branding-in {padding: 25px 0 0 0;}
+    .style-in {padding: 22px 0 29px 0;}
+    .few p {padding: 0 0 15px 0;}
+    .high-in h6{    padding: 0 0 22px 0;}
+    .high-in { padding: 30px 0 8px 0;}
+    .high-in p {padding: 0 0 10px 0;}
+    .conslusion .map-in p {padding: 0 15px 16px 15px;}
+    .let.view{width:95%;}
+    .let.view.con {margin: 8px 0 20px 0;}
+    .menu.wte{top:27px;}
+    .user-inner {padding: 0 0 25px 0;}
+	.food-truck:after{height: 16px;bottom: -9px;}
+	.food-in{padding: 10px 0 210px 0;}
+	/*block box starts*/
+	.device .mobile-in figure img {width: auto;height: auto;margin: -90px auto 47px;}
+	.blockbox .food-in {padding: 10px 0 130px 0;}
+}
