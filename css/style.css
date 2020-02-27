@@ -54,7 +54,7 @@ nav ul li a:after{display: none;}
 nav ul li a:hover:after{display: block;}
 nav ul li.active a:after{display: block;}
 nav ul li:last-child{padding: 0 0 0 15px;}
-.let{width: 248px;height: 60px;background: #ff8300;border-radius: 50px;font-size: 1.25rem;line-height: 60px;font-weight: 400;font-family: 'Montserrat', sans-serif;color: #ffffff;border: 0;cursor: pointer;outline:none;}
+.let{width: 200px;height: 60px;background: #ff8300;border-radius: 50px;font-size: 1.15rem;line-height: 50px;font-weight: 400;font-family: 'Montserrat', sans-serif;color: #ffffff;border: 0;cursor: pointer;outline:none;}
 /*work starts*/
 .work{}
 .work-in{text-align: center;padding: 102px 0 99px 0;}
@@ -91,7 +91,7 @@ footer{background: #001a33;}
 .about-left{float: left;display: inline-block;width: 54%;}
 .about-left figure{}
 .about-left figure img{}
-.about-right{float: right;display: inline-block;width: 46%;padding: 3px 0 0 4px;}
+.about-right{float: right;display: inline-block;width: 46%;padding: 0 0 0 4px;}
 .about-right h2{font-weight: 700;font-family: 'Open Sans', sans-serif;padding: 0 0 35px 0;}
 .about-right p{font-size: 0.875rem;line-height: 24px;font-weight: 400;font-family: 'Open Sans', sans-serif;padding: 0 0 24px 0;}
 .about-right p a{text-decoration: underline;color: #ff8300;}
@@ -277,7 +277,7 @@ left: 0;right: 0;background: url(../images/curve.png)no-repeat;width: 100%;heigh
 .block-servey .survey-in a.str {padding: 0 0 36px 0;}
 .block-servey .stories{padding: 35px 0;}
 .block-servey .stories a{font-weight: 700;color: #ff8201;text-align: center;text-decoration: underline;display: block;font-family: 'Open Sans', sans-serif;font-size:14px;line-height:16px;}
-.block-servey .stories p{padding: 0 0 32px 0;}    
+.block-servey .stories p{padding: 0 0 32px 0;}
 .sitemap .user-flow{border: 0;}
 .sitemap .user-flow-in p{padding: 0 0 30px 0;}
 .sitemap .user-flow-in{padding: 37px 0 33px 0;}
@@ -386,7 +386,7 @@ left: 0;right: 0;background: url(../images/curve.png)no-repeat;width: 100%;heigh
 .social.meet-in .social > ul > li{}
 
 /*side menu*/
-.menu{display: none;float: right;}        
+.menu{display: none;float: right;}
 .menu{cursor: pointer;background: transparent;border: 0;outline: none;}
 .menu span{display: none;width: 30px;height: 3px;margin: 6px 0 0 0;position: relative;right: 0;-webkit-transition:all 0.25s ease-in-out; -moz-transition:all 0.25s ease-in-out;-o-transition:all 0.25s ease-in-out; transition:all 0.25s ease-in-out;background: #ffffff;}
 .menu.wte span{background:#fff;}
