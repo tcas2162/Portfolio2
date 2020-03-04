@@ -289,7 +289,7 @@ left: 0;right: 0;background: url(../images/curve.png)no-repeat;width: 100%;heigh
 .brand-style .Branding-inner ul li figure img{margin: 0 auto;}
 .brand-style .Branding-inner ul {margin: 0 0 35px 0;}
 .brand-style .branding-style {padding: 0 0 3px 0;}
-.brand-style  .style-in figure img{margin: 0 auto 43px;border: 1px solid #979797;}
+.brand-style  .style-in img{display: block; margin-left: auto; margin-right: auto; width: 50%; border: 1px solid #979797;}
 .brand-style .style-in {padding: 32px 0 37px 0;}
 .brand-style .fidelity ul li{vertical-align: top;padding: 0 20px 31px;}
 .brand-style .fidelity ul li:first-child {padding: 0 42px 35px 0;}
