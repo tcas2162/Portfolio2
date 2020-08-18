@@ -11,18 +11,18 @@
 	.food-truck:after{height: 68px;}
 }
 @media only screen and (max-width:1250px){
-    /*index page resoponsive*/
-    
+    /*index page responsive*/
+
     .container{padding:0 15px;}
     .banner{background-size:cover;}
-     /*conatct page resoponsive*/
+     /*contact page responsive*/
     .contact-in {padding: 70px 0;}
-      /*about page resoponsive*/
+      /*about page responsive*/
     .about-in {padding: 70px 0 30px 0;}
     .connect h2{padding: 0 0 30px 0;}
     .connect{padding: 70px 0;}
     .connect-main {padding: 0 0 70px 0;}
-     /*wheelmeals page resoponsive*/
+     /*wheelmeals page responsive*/
     .sign ul li{width:33.3%!important;padding:0 15px !important;}
     .sign ul{font-size:0; margin:0 -15px;padding:10px 0 0 0;}
     .work-in{padding: 60px 0;}
@@ -34,24 +34,24 @@
     .banner-in{padding: 65px 15px 80px 15px;}
     .survey-in a{padding: 0 0 70px 0;}
     .survey-in figure img {margin: 0 0 70px 0;}
-    .conslusion {padding: 35px 0 35px 0;}
+    .conclusion {padding: 35px 0 35px 0;}
 	.food-truck:after{height: 60px;bottom: -54px;}
-    /*yattvisionfinal starts*/
+    /*yattavision page starts*/
     .social > ul{margin: 0;}
 @media only screen and (max-width:1100px){
-     /*index page resoponsive*/
+     /*index page responsive*/
     .work-in h3{padding: 0 0 70px 0;}
     .blocbox ul li{padding:0;}
     .blocbox ul li:first-child { padding: 0 15px 60px 0;}
     .blocbox ul li:nth-child(2){ padding: 0 0 60px 15px;}
     .blocbox ul {   margin: 0 0 70px 0;}
     .blocbox > h2{padding: 0 0 30px 0;}
-     .footer-in {padding: 40px 0;}   
+     .footer-in {padding: 40px 0;}
     .header-in.main { padding: 40px 0 0 0;}
-     /*conatct page resoponsive*/
-    .contact-rihgt{padding: 0 0 0 85px;}
-    /*about page resoponsive*/
-       /*wheelmeals page resoponsive*/
+     /*contact page responsive*/
+    .contact-right{padding: 0 0 0 85px;}
+    /*about page responsive*/
+       /*wheelmeals page responsive*/
     .map-inner ul{font-size:0;}
     .map-inner ul li{width:50%;padding:0;}
     .map-inner.nicole ul li {  padding: 0 0 31px;}
@@ -59,40 +59,40 @@
     .user-right p br{display: none;}
     .result p br{display: none;}
 	.food-truck:after{height: 56px;bottom: -53px;}
-    /*block box starts*/
+    /*blocbox starts*/
     .blockbox .food-in h3 br{display: none;}
 	.blockbox .food-in h3{letter-spacing: 0;line-height:34px;}
 }
 @media only screen and (max-width:1024px){
-       /*conatct page resoponsive*/
+       /*contact page responsive*/
     .connect{padding: 58px 0 58px 0;}
     .contact-in { padding: 65px 0 80px 0;}
-       /*conatct page resoponsive*/
-    /*about page resoponsive*/
-       /*wheelmeals page resoponsive*/
+       /*contact page responsive*/
+    /*about page responsive*/
+       /*wheelmeals page responsive*/
 	.food-truck:after{height: 54px;bottom: -52px;}
 }
 @media only screen and (max-width:991px){
-     /*index page resoponsive*/
+     /*index page responsive*/
     .banner-in h3 br{display:none;}
     .work-in h3 {   padding: 0 0 50px 0;}
     h2 {font-size: 24px;letter-spacing:0;line-height:28px;}
     .blocbox > h2{padding:0 0 22px 0;}
 	.bloc-inner h6.click{padding: 13px 0 22px 0;}
 /*    .bloc-inner figure.vn{height: 62px;}*/
-     /*conatct page resoponsive*/
-    .contact-rihgt {  padding: 0 0 0 0;}
+     /*contact page responsive*/
+    .contact-right {  padding: 0 0 0 0;}
     .connect h2{padding: 0 0 25px 0;}
     h3 {font-size: 23px;}
     .contact-left{padding:0 30px 0 0;}
-    .contact-rihgt h3 { padding: 0 0 30px 0;}
+    .contact-right h3 { padding: 0 0 30px 0;}
     form ul li span{    padding: 8px 0 0 0;}
     .contact-in {  padding: 65px 0;}
-    /*about page resoponsive*/
+    /*about page responsive*/
     .about-in {   padding: 65px 0 40px 0;}
     .about-left{    padding: 0 30px 0 0;}
-    
-       /*wheelmeals page resoponsive*/
+
+       /*wheelmeals page responsive*/
     .food-in figure img {  margin: 0 auto 40px;}
     .summary-in h6{padding: 0 0 20px 0;}
     .survey-in a {  padding: 0 0 65px 0;}
@@ -106,17 +106,17 @@
     .add .item-left{padding: 0 15px 0 0;}
     .add .item-right{padding: 0 0 0 15px;}
 	.food-truck:after{height: 41px;bottom: -30px;}
-    /*block box starts*/
+    /*blocbox starts*/
     /*yattavision starts*/
     .food-in.yatta figure img {margin: 0 auto 40px;}
 }
 @media only screen and (max-width:768px){
-     /*index page resoponsive*/
+     /*index page responsive*/
 .logo a img {width: 220px;}
 nav{display: none;}
 .menu{display: block;position: absolute;top:48px !important;right:15px;z-index:3;}
 .sticky .menu{top:35px !important;}
-.open-menu header{left:-250px;}
+.open-menu header{left:-500px;}
 
 
 .sidemenu{display: block;}
@@ -129,9 +129,9 @@ nav ul li{display: block;float: none;text-align: center;padding: 10px;}
 
 nav ul li a{display: block;}
 .open-menu .sidemenu nav ul li{max-width:150px;margin:0 auto;text-align:center;padding:30px 0 0 0 ;display:block;width:100%;}
-.wrapper {position:relative;left:0;-webkit-transition: all 0.25s ease-in-out; -moz-transition: all 0.25s ease-in-out;-o-transition:all 0.25s ease-in-out; transition: 0.25s ease-in-out;} 
-.open-menu .wrapper{left:-250px;} 
-    .banner-in{padding: 53px 15px 95px 15px;}   
+.wrapper {position:relative;left:0;-webkit-transition: all 0.25s ease-in-out; -moz-transition: all 0.25s ease-in-out;-o-transition:all 0.25s ease-in-out; transition: 0.25s ease-in-out;}
+.open-menu .wrapper{left:-250px;}
+    .banner-in{padding: 53px 15px 95px 15px;}
     .banner-in h1 { padding: 0 0 20px 0;}
     .banner-in h3{line-height:34px;}
     .blocbox ul li{width:100%;float:none;padding:0 0 20px 0 ! important;}
@@ -143,21 +143,21 @@ nav ul li a{display: block;}
     .bloc-in > figure > img{width:100%;}
 /*    .bloc-inner figure.vn {height: 92px;}*/
 	.bloc-inner h6.click {padding: 50px 0;}
-     /*conatct page resoponsive*/
+     /*contact page responsive*/
     .contact-in {padding: 40px 0 15px 0;}
     .contact-left { float: none; display: block; width: 100%;padding:0 0 30px 0;}
-    .contact-rihgt  { float: none; display: block; width: 100%;}
+    .contact-right  { float: none; display: block; width: 100%;}
     .contact-left h3 {padding: 0 0 25px 0;}
     .contact-in h2{    padding: 0 0 20px 0;}
     .connect-main { padding: 0 0 60px 0;}
     .connect { padding: 46px 0 46px 0;}
-    /*about page resoponsive*/
+    /*about page responsive*/
     .about-in { padding: 45px 0 15px 0;}
     .about-left{float: none; display: block; width: 100%;padding:0 0 30px 0;}
     .about-right{float: none; display: block; width: 100%;padding:0;}
     .about-left figure img { width: 100%;}
     .about-right h2{padding: 0 0 20px 0;}
-       /*wheelmeals page resoponsive*/
+       /*wheelmeals page responsive*/
         .user-in h6 {    padding: 0 0 23px 0;}
 .survey-in a {padding: 0 0 40px 0;}
     .survey-in figure img { margin: 0 0 45px 0;}
@@ -175,14 +175,14 @@ nav ul li a{display: block;}
     .map-in h6 {padding:0 0 20px 0;}
     .menu.wte{top:34px;}
     .map-in.greg {padding: 34px 15px 0 15px;}
-    .conslusion {padding: 35px 15px 35px 15px;}
+    .conclusion {padding: 35px 15px 35px 15px;}
 	.food-truck:after{height: 31px;bottom: -28px;}
-    /*block box starts*/
+    /*blocbox starts*/
 	.blockbox .food-in{padding: 10px 0 180px 0;}
 	.device .mobile-in figure img {margin: -140px auto 47px;}
     .brand-style .fidelity ul li:nth-child(4){width: 100%;}
     .brand-style .fidelity ul li:nth-child(5){width: 100%;}
-    .block-servey .stories p {padding: 0 15px 32px 15px;}
+    .block-survey .stories p {padding: 0 15px 32px 15px;}
     .mary .map-in p{padding: 0 15px 32px 15px;}
     .austin .map-in p.york{padding: 0 15px;}
     .brand-style .item-left{display: block;width: 100%;float: none;padding: 0 0 15px 0;}
@@ -201,13 +201,13 @@ nav ul li a{display: block;}
     .being-in ul li{width: 100%;display: block;float: none;}
     .being-in ul li:nth-child(odd) {padding: 0 0 15px 0;}
     .being-in ul li:nth-child(even) {padding: 0 0 15px 0;}
-    
-    
+
+
     .being-in ul li figure img{margin: 0 auto;width: 100%;}
     .being-in ul li:nth-child(even) figure img{margin: 0 auto;}
-    
-    
-    
+
+
+
     /*yattavision starts*/
     .social > ul > li{width: 100%;display: block;float: none;padding: 0 0 15px;}
     .social > ul > li:last-child{padding: 0 0 15px 0;}
@@ -215,16 +215,16 @@ nav ul li a{display: block;}
     .austin {padding: 37px 15px 6px 15px;}
 }
 @media only screen and (max-width:575px){
- /*index page resoponsive*/
+ /*index page responsive*/
     .footer-in { padding: 27px 0;}
-     /*conatct page resoponsive*/
-    /*about page resoponsive*/
-           /*wheelmeals page resoponsive*/
+     /*contact page responsive*/
+    /*about page responsive*/
+           /*wheelmeals page responsive*/
     .summary-in{padding:25px 0 0 0;}
     .user-left h3:after{width:82px;height:82px;background-size: cover;}
     .user-left h3{padding: 30px 0 0 25px;font-size: 19px;}
     .result { padding: 15px 0 0 0;}
-    .conslusion { padding: 35px 15px 30px;}
+    .conclusion { padding: 35px 15px 30px;}
     .sign ul{margin:0;}
 .map-inner ul {  margin: 0;}
     .overall-in {  padding: 25px 0 0 0;}
@@ -233,14 +233,14 @@ nav ul li a{display: block;}
 	.food-truck:after{height: 27px;bottom: -22px;}
 }
 @media only screen and (max-width:479px){
-     /*index page resoponsive*/
+     /*index page responsive*/
 .footer-in a {font-size: 18px;}
-.footer-in p { font-size: 14px;}    
-.footer-in {  padding: 18px 0;}    
+.footer-in p { font-size: 14px;}
+.footer-in {  padding: 18px 0;}
 .let {width: 200px;height: 46px;font-size: 17px;line-height: 46px;}
-.blocbox > h2 {font-size: 18px; line-height: 22px; padding: 0 0 15px 0; }   
-.work-in {   padding: 23px 0 45px 0;}    
-    h3 { font-size: 21px;line-height: 29px;}  
+.blocbox > h2 {font-size: 18px; line-height: 22px; padding: 0 0 15px 0; }
+.work-in {   padding: 23px 0 45px 0;}
+    h3 { font-size: 21px;line-height: 29px;}
     h1 {font-size: 26px;}
     header .container{padding:0;}
     header{padding:0 15px;}
@@ -260,20 +260,20 @@ nav ul li a{display: block;}
     .banner-in {padding: 53px 15px 55px 15px;}
     .bloc-inner figure.vn {width: 80%; margin: 0 auto;}
 	.bloc-inner h6.click {padding: 7px 0;}
-     /*conatct page resoponsive*/
+     /*contact page responsive*/
     .contact-in {padding: 30px 0 15px 0;}
     .contact-left h3 { padding: 0 0 12px 0;}
     form ul li { padding: 0 0 18px 0;}
-    .contact-rihgt h3 {padding: 0 0 19px 0;}
+    .contact-right h3 {padding: 0 0 19px 0;}
     .connect h2{ font-size: 18px; line-height: 25px; padding: 0 0 15px 0; }
     .connect {  padding: 36px 0 36px 0;}
     .connect-main {  padding: 0 0 40px 0;}
-    /*about page resoponsive*/
+    /*about page responsive*/
      .about-in {padding: 30px 0 15px 0;}
-    
-    .about-right p{padding:0 0 10px 0;}   
+
+    .about-right p{padding:0 0 10px 0;}
     .connect {padding: 24px 0 24px 0;}
-       /*wheelmeals page resoponsive*/
+       /*wheelmeals page responsive*/
     .let.view {  width: 100%;    margin: 0 0 26px 0;font-size:15px;}
     .mobile-in figure img {margin: -190px auto 25px;object-fit: cover;height: 408px;width: 201px;}
     .user-left h3:after { width: 50px; height: 50px;}
@@ -287,14 +287,14 @@ nav ul li a{display: block;}
     .high-in h6{    padding: 0 0 22px 0;}
     .high-in { padding: 30px 0 8px 0;}
     .high-in p {padding: 0 0 10px 0;}
-    .conslusion .map-in p {padding: 0 15px 16px 15px;}
+    .conclusion .map-in p {padding: 0 15px 16px 15px;}
     .let.view{width:95%;}
     .let.view.con {margin: 8px 0 20px 0;}
     .menu.wte{top:27px;}
     .user-inner {padding: 0 0 25px 0;}
 	.food-truck:after{height: 16px;bottom: -9px;}
 	.food-in{padding: 10px 0 210px 0;}
-	/*block box starts*/
+	/*blocbox starts*/
 	.device .mobile-in figure img {width: auto;height: auto;margin: -90px auto 47px;}
 	.blockbox .food-in {padding: 10px 0 130px 0;}
 }
